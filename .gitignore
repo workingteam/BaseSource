@@ -1,0 +1,24 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/BaseSource.Api/bin
+/BaseSource.Api/obj/Debug
+/BaseSource.Common/obj/Debug
+/BaseSource.Common/bin/Debug
+/BaseSource.Data/obj/Debug
+/BaseSource.Data/bin/Debug
+/BaseSource.Identity/obj/Debug
+/BaseSource.Identity/bin/Debug
+/BaseSource.Model/obj/Debug
+/BaseSource.Model/bin/Debug
+/BaseSource.Service/obj/Debug
+/BaseSource.Service/bin/Debug
+/BaseSource.UnitTest/obj/Debug
+/BaseSource.UnitTest/bin/Debug
+/packages
+/BaseSource.Web/obj/Debug
+/BaseSource.Web/bin
+/.vs/BaseSource/v14
+/BaseSource.Data/bin
+/.vs/config
